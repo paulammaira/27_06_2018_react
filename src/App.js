@@ -18,3 +18,11 @@ class App extends Component {
 }
 
 export default App;
+
+//inicio de lógica de programação orientada a objetos (POO), conseguimos mais recursos de abstração pois quando estamos trabalhando com DOM ´
+//é dificil padronizar, nos arquivos criamos objetos definimos classes e utilizamos instâncias
+/// separação importante entre CLASSE e INSTANCIA, 
+//CLASSE: como se fosse a categoria maior que usamos no html
+//INSTÂNCIA: características que atribuimos a essas classes separadamente
+
+//UTILIZAÇÃO DE LINGUAGEM JSX - HTML + CSS + JS - em uma coisa só!
